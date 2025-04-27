@@ -29,8 +29,11 @@ This multi-part series explores the end-to-end process of building, deploying, a
 
 ## Project Structure
 ├── app/ 
-├── docs/   
-│   ├── images/    
+
+├── docs/ 
+
+│   ├── images/ 
+
 │   └── part0.md 
 
 ├── notebooks/  
