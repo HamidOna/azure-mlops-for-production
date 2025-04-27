@@ -28,3 +28,18 @@ This multi-part series explores the end-to-end process of building, deploying, a
 3. Follow the setup instructions in [Part 0 documentation](docs/part0.md)
 
 ## Project Structure
+├── app/                # Application code
+├── docs/               # Documentation
+│   ├── images/         # Screenshots and diagrams
+│   └── part0.md        # Documentation for Part 0
+├── notebooks/          # Jupyter notebooks
+├── .gitignore          # Git ignore file
+├── LICENSE             # License file
+└── README.md           # This README
+
+## Prerequisites
+
+- Azure account with active subscription
+- Python 3.8+
+- Git
+- Basic knowledge of ML concepts
