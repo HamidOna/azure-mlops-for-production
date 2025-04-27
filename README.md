@@ -29,20 +29,20 @@ This multi-part series explores the end-to-end process of building, deploying, a
 
 ## Project Structure
 ├── app/ 
-# Application code
+
 ├── docs/   
-# Documentation
+
 │   ├── images/    
-# Screenshots and diagrams
+
 │   └── part0.md 
-# Documentation for Part 0
+
 ├── notebooks/  
-# Jupyter notebooks
+
 ├── .gitignore 
-                        # Git ignore file
+                   
 ├── LICENSE  
-                        # License file
-└── README.md           # This README
+                     
+└── README.md        
 
 ## Prerequisites
 
